@@ -37,6 +37,7 @@ The dimensions and final shape of the buoy will be determined throughout the dur
 
 
 ![buoy1](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/36920018-a661-49bf-825a-44598534604f)
+
 Figure 2: Handmade sketch of the floating buoy.
 
 
