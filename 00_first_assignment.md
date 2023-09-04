@@ -54,4 +54,6 @@ The second instrument that will be mounted inside the buoy’s housing will be a
 
 Figure 3 A&B: Handmade sketch of the floating buoy: (FIG 3A: As seen from the side), (FIG 3B: As seen from above), (Black: Accelerometer, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
 
+## **References** 
 
+[NOAA’s National Weather Service. (n.d.-b). Wave height explanation. https://www.weather.gov/dlh/WaveHeightExplanation](https://www.weather.gov/dlh/WaveHeightExplanation)
