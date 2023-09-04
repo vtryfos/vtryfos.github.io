@@ -53,6 +53,6 @@ The second instrument that will be mounted inside the buoy’s housing will be a
 
 ![buoy1](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/36920018-a661-49bf-825a-44598534604f)
 
-Figure 3 A&B: Handmade sketch of the floating buoy: (FIG 3A: As seen from the side), (FIG 3B: As seen from above), (Black: Accelerator, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
+Figure 3 A&B: Handmade sketch of the floating buoy: (FIG 3A: As seen from the side), (FIG 3B: As seen from above), (Black: Accelerometer, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
 
 
