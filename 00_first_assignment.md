@@ -37,8 +37,8 @@ As stated previously, the main intention is to create a floating buoy that is ca
 The dimensions and final shape of the buoy will be determined throughout the duration of the project. Figure 2 depicts a raw and handmade sketch of the floating buoy. 
 
 
+![buoy2](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/ccdcfb70-0639-4404-8a44-e1fdb7be1c3e)
 
-![buoy2](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/0e7c3d6b-96a7-4cbc-8b68-4c9ad6ff094f)
 
 
 Figure 2: Handmade sketch of the floating buoy.
