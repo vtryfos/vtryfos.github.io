@@ -37,7 +37,8 @@ As stated previously, the main intention is to create a floating buoy that is ca
 The dimensions and final shape of the buoy will be determined throughout the duration of the project. Figure 2 depicts a raw and handmade sketch of the floating buoy. 
 
 
-![buoy1](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/36920018-a661-49bf-825a-44598534604f)
+![buoy2](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c5f240d4-d4a0-409d-834f-e52122a28894)
+
 
 Figure 2: Handmade sketch of the floating buoy.
 
@@ -47,5 +48,16 @@ Instruments inside the housing:
 The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height. The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
 
 The second instrument that will be mounted inside the buoy’s housing will be a pendulum that will eventually help me see whether wave motion can create enough momentum to generate power for the buoy’s instruments, in a way where the buoy can be self sufficient. This pendulum will be attached to a device which will count rotations per minute (RPM) and will move freely, in one dimension, inside the buoy’s housing.  
+
+Instruments inside the housing:
+
+The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height (Fig 3). The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
+
+The second instrument that will be mounted inside the buoy’s housing will be a pendulum that will eventually help me see whether wave motion can create enough momentum to generate power for the buoy’s instruments, in a way where the buoy can be self sufficient. This pendulum will be attached to a device which will count rotations per minute (RPM) and will move freely, in one dimension, inside the buoy’s housing  (Fig 3).  
+
+![buoy1](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/36920018-a661-49bf-825a-44598534604f)
+
+Figure 3: Handmade sketch of the floating buoy (Black: Accelerator, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
+
 
 
