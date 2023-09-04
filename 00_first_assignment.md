@@ -18,7 +18,7 @@ What is wave height?
 
 According to (NOAA’s National Weather Service, n.d.), wave height is the vertical distance between the highest point on the wave above the still-water line (see Fig 1) and the lowest point on the wave below the still-water line (see Fig 1). The still-water line is the level of a flat water surface.
 
-###FIG 1
+![waveform](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/6babfa39-4330-4fb1-8f7d-004359e2cb17)
 
 Building process of the instrument:
 
