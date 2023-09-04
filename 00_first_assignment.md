@@ -26,6 +26,7 @@ According to (NOAA’s National Weather Service, n.d.), wave height is the verti
 
 
 ![waveform](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/6babfa39-4330-4fb1-8f7d-004359e2cb17)
+
 Figure 1: Wave height is depicted with red color. (NOAA’s National Weather Service. (n.d.). Wave Height Explanation. https://www.weather.gov/dlh/WaveHeightExplanation)
 
 
