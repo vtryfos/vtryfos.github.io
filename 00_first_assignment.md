@@ -5,5 +5,30 @@ layout: home
 
 ADA525
 
-A floating buoy that measures wave height.
+Purpose and idea behind the floating buoy:
+
+Due to the effects of climate change, the majority of coastal regions have begun experiencing rapid changes causing devastating effects on their surrounding environments. Erratic changes in temperature,wind velocity and precipitation disrupt the oceanic currents in a way that negatively affects the natural habitat of oceanic life forms as well as human activities (e.g fishing,tourist attractions etc,) that generate income. 
+
+Function of the floating buoy:
+
+The main function of the buoy will be the documentation of the wave height which will be accomplished by measuring weather parameters using a special instrument (see below). 
+Another function of the buoy is the potential generation of electricity in order for the buoy to be self sufficient . The aforementioned generation of electricity will be achieved with the help of a pendulum that will rotate inside of the buoy’s housing due to the clashing of the waves.
+
+What is wave height?
+
+According to (NOAA’s National Weather Service, n.d.), wave height is the vertical distance between the highest point on the wave above the still-water line (see Fig 1) and the lowest point on the wave below the still-water line (see Fig 1). The still-water line is the level of a flat water surface.
+
+###FIG 1
+
+Building process of the instrument:
+
+As stated previously, the main intention is to create a floating buoy that is capable of gathering ocean data by utilizing different components. The housing of the buoy will be modeled by using a program called Fusion360, which is a computer-based software platform that aids in design processes, and thereafter will be 3D printed. The dimensions and final shape of the buoy will be determined throughout the duration of the project.
+Figure 2 depicts a raw and handmade sketch of the floating buoy. 
+
+
+###FIG 2
+
+Data measuring instruments:
+
+The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height. The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
 
