@@ -46,19 +46,13 @@ Figure 2: Handmade sketch of the floating buoy.
 
 Instruments inside the housing:
 
-The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height. The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
+The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height (Fig 3 A&B). The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
 
-The second instrument that will be mounted inside the buoy’s housing will be a pendulum that will eventually help me see whether wave motion can create enough momentum to generate power for the buoy’s instruments, in a way where the buoy can be self sufficient. This pendulum will be attached to a device which will count rotations per minute (RPM) and will move freely, in one dimension, inside the buoy’s housing.  
+The second instrument that will be mounted inside the buoy’s housing will be a pendulum that will eventually help me see whether wave motion can create enough momentum to generate power for the buoy’s instruments, in a way where the buoy can be self sufficient. This pendulum will be attached to a device which will count rotations per minute (RPM) and will move freely, in one dimension, inside the buoy’s housing  (Fig 3 A&B).  
 
-Instruments inside the housing:
-
-The floating buoy will be equipped with an accelerometer that will gather the appropriate data needed in order to calculate the wave height (Fig 3). The accelerometer works like that: it detects any potential changes in vertical or horizontal motion of the buoy and thus, calculates the wave height.
-
-The second instrument that will be mounted inside the buoy’s housing will be a pendulum that will eventually help me see whether wave motion can create enough momentum to generate power for the buoy’s instruments, in a way where the buoy can be self sufficient. This pendulum will be attached to a device which will count rotations per minute (RPM) and will move freely, in one dimension, inside the buoy’s housing  (Fig 3).  
 
 ![buoy1](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/36920018-a661-49bf-825a-44598534604f)
 
-Figure 3: Handmade sketch of the floating buoy (Black: Accelerator, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
-
+Figure 3 A&B: Handmade sketch of the floating buoy: (FIG 3A: As seen from the side), (FIG 3B: As seen from above), (Black: Accelerator, Yellow and Orange: Pendulum, Red: Mounting Base and Rotation counter, Green: Buoy’s Base).
 
 
