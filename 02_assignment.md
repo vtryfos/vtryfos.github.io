@@ -47,10 +47,10 @@ Lastly, I created two 5mm in length cylinders with a diameter of 5mm. Those two 
 The final stage in completing the structure's design involved rounding its corners. To do that, I used the fillet command and the setback corner type configuration. The radius value, which represents the degree of rounding, was set to be 1mm. 
 
 ![firsrt print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/037d64bf-5d35-4e23-826f-8dc005e112ae)
-Figure 1: Shows the evolution of the watermill’s design using the Fusion360 program.
+Figure 1: Shows the evolution of the initial watermill’s design using the Fusion360 program.
 
 
-### **Second iteration:**
+### **Second iteration: Fig 2**
 
 The idea behind the second design of the watermill was almost identical with the first one described above but with a few corrections. The nature and the reason for some of those corrections will be further discussed in the next session. 
 
@@ -65,3 +65,8 @@ The second tower of the whole structure was created by using the mirror command.
 
 ### **Rounding the edges:**
 The radius value to round the edges in the second iteration was set to be 2mm. The chosen corner type configuration was the setback one.
+
+
+
+![Second print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/cd2c0787-9cc1-4e75-bacd-6e7077a7fd24)
+Figure 2: Shows the evolution of the second watermill’s design using the Fusion360 program.
