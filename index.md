@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 00_first_assignment
 layout: default
 ---
 
