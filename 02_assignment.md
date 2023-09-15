@@ -48,3 +48,20 @@ The final stage in completing the structure's design involved rounding its corne
 
 ![firsrt print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/037d64bf-5d35-4e23-826f-8dc005e112ae)
 Figure 1: Shows the evolution of the watermill’s design using the Fusion360 program.
+
+
+### **Second iteration:**
+
+The idea behind the second design of the watermill was almost identical with the first one described above but with a few corrections. The nature and the reason for some of those corrections will be further discussed in the next session. 
+
+### **First tower:**
+The design for the base and the tower remained the same as in the first iteration. The only distinction was their dimensions where the new base and tower are slightly larger measuring (40mm x 70mm x 20mm) and (20mm x 40mm x 60mm) respectively.
+
+### **Bearing cavity:**
+The bearing cavity was created in the same manner as in the initial iteration. This time, a circle with a diameter of 16mm and a depth of 5mm instead of 12mm was created at the center of the tower.
+
+### **Second Tower:**
+The second tower of the whole structure was created by using the mirror command.
+
+### **Rounding the edges:**
+The radius value to round the edges in the second iteration was set to be 2mm. The chosen corner type configuration was the setback one.
