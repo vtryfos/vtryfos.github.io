@@ -3,5 +3,48 @@ title: 02_assignment
 layout: default
 ---
 
-***3D Print with multiple parts***
+# **3D print design that combines multiple parts**
 
+3D print design that combines multiple parts:
+
+
+## **Designing and 3D printing a watermill:**
+
+### **Watermill definition:**
+A watermill is a structure, builded as usual close to a river or a stream, which takes advantage of the kinetic energy of flowing water. The flowing water rotates the watermill and mechanical energy is generated. A watermill can be therefore used to produce electricity or other various tasks. 
+
+The structure created for this project consists of two towers, a wheel with paddles along its outer edge, a long and narrow axle bar, and two stainless steel ball bearings. The design and construction of the watermill will involve utilizing the Fusion360 software program, the Bambu slicer application, and a Bambu X1 Carbon 3D printer.
+
+### **CAD progress:**
+
+### **First Iteration: Fig 1**
+
+### **First Tower**
+As previously stated, Fusion360 was utilized to design the structure of the watermill. To begin with, I created a rectangular shape (35mm x 60mm) on the XY plane. Then, the extrude command was used to elevate the rectangular shape by 20mm. The base of the tower was then designed and I had to design another structure on the top of the base. Using the same way, I created yet another rectangular shape (10mm x 35mm) on the XY plane. The only difference was that this second rectangular was positioned atop of the tower base. The extrude command was used again to lift the rectangular by 50mm. At this point, the whole tower was completed. 
+
+### **Bearing cavity:**
+In order to design the bearing cavity, I created a new sketch on the XZ plane and marked the outer surface of the tower on that plane. Next, a circle with a diameter of 16mm and a depth of 12mm was created at the center of the tower. This cavity was crucial to the whole design as it will hold in place the stainless steel ball bearing that will allow the rotation of the watermill wheel.
+
+### **Second Tower:**
+The second tower of the whole structure was created by using the mirror command, which creates a copy of faces, bodies, features, and components and mirrors them across a plane. In other words, the second tower was an identical copy of the first.
+
+### **Watermill wheel:**
+To create the watermill wheel, which had to lie between the two towers, I initially constructed a midplane along the XZ plane. This midplane creates a construction plane between two faces or work planes, in this case, between the two cavities that will host the ball bearings. 
+
+Subsequently, I designed a 60mm diameter circle that uses as its center the very center of the two aforementioned cavities. At the same time a smaller circle with a diameter of 16mm with the same center was designed, which would act as whole within the wheel. 
+
+Once again, the extrude command was used to give depth to the 60mm diameter circle. I used the symmetric configuration on the direction field and a distance of 10mm, meaning that the total length of the wheel would be 20mm. 
+
+Finally, the paddles along the wheel’s outer edge were constructed. To design them, I sketched two closed irregular shapes, the first on the one side of the wheel and the second on the other, and I used the loft command to cut through the wheel.
+
+### **Axle Bar:**
+To create the axle bar I designed a circle with a diameter of 16mm atop of the midplane, which ‘slices’ the wheel right at the middle. Furthermore, I used the extrude command choosing again the symmetric configuration and a distance of 34mm. This meant that the axle bar was going through the wheel and inside the two cavities of the towers. 
+
+Lastly, I created two 5mm in length cylinders with a diameter of 5mm. Those two cylinders were attached on both ends of the axle bar and were to be inserted in the ball bearings. That was one the most important features of the design as those two cylinders connect the axle bar and the wheel to the bearings and the towers.
+
+
+### **Rounding the edges:**
+The final stage in completing the structure's design involved rounding its corners. To do that, I used the fillet command and the setback corner type configuration. The radius value, which represents the degree of rounding, was set to be 1mm. 
+
+![firsrt print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/037d64bf-5d35-4e23-826f-8dc005e112ae)
+Figure 1 shows the evolution of the watermill’s design using the Fusion360 program.
