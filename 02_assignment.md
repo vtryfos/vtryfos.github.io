@@ -47,4 +47,4 @@ Lastly, I created two 5mm in length cylinders with a diameter of 5mm. Those two 
 The final stage in completing the structure's design involved rounding its corners. To do that, I used the fillet command and the setback corner type configuration. The radius value, which represents the degree of rounding, was set to be 1mm. 
 
 ![firsrt print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/037d64bf-5d35-4e23-826f-8dc005e112ae)
-Figure 1 shows the evolution of the watermill’s design using the Fusion360 program.
+Figure 1: Shows the evolution of the watermill’s design using the Fusion360 program.
