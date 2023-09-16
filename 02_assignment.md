@@ -92,3 +92,22 @@ Figure 3: Values of the parameters, preparation, and preview of the upcoming 3D 
 ## **Three 3D print iterations:**
 
 The watermill went through a total of three 3D printing iterations, with the first design being printed twice and the second one once. The first print started as normal but due to lack of glue on the thermal plate the process had to be halted . Despite the unsuccessful outcome, the 3D printer produced the bottom surfaces of the towers and the watermill wheel as depicted in Fig 4. 
+
+
+
+Figure 4: First 3D printing attempt of the watermill (First design).
+
+The second attempted iteration was successful, however, the design had a major flow. The cylindrical axle was inserted inside the tower cavities and was after that connected to the bearings, meaning that the axle was rubbing against the inner walls of the cavities causing unwanted friction (Fig 5). This issue made the rotation of the watermill wheel almost impossible.   Thus, a second design and a third print was necessary. 
+
+
+Figure 5: Second 3D printing attempt of the watermill (First design).
+
+The third and final 3D printing attempt was also a success. On this occasion, it was the second design that was printed, as shown in Figure 6. In this case, no ‘negative’ issues were presented whatsoever. 
+
+Figure 6: Second 3D printing attempt of the watermill (Second design).
+
+## **Discussion:**
+
+Designing, slicing and 3D printing the windmill turned out to be a very enlightening experience which helped me understand more about how the Fusion360 software program works, as well as the Bambu slicer. 
+
+Both the second and the third printed products function and perform more or less as they should. When placed beneath flowing water, the third printed watermill clearly outperforms the second one. The only thing missing is testing the rotations per minute (RPM) of the two watermills with a tachometer, which is unfortunately something I have not done yet. Despite the successful final print and the product’s good functionality, there is definitely room for improvement. 
