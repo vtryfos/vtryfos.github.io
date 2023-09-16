@@ -66,7 +66,20 @@ The second tower of the whole structure was created by using the mirror command.
 ### **Rounding the edges:**
 The radius value to round the edges in the second iteration was set to be 2mm. The chosen corner type configuration was the setback one.
 
+### **Watermill wheel:**
+Initially, the XZ plane was constructed and was placed between the centers of the bearing cavities. The diameter and the thickness of the circle was 80mm and 30mm respectively.
+
+To make room in the center of the wheel for the axle bar, I created a 10mm x 10mm rectangular-shaped hole by using the extrude command and the cut configuration, in contrast to the first iteration where the hole was circular.  
+
+The paddles positioned along the outer rim of the wheel were constructed by following the same approach as before, namely, by using the loft command. The only difference was that I created two sketches using the 3-point arc and line commands , one on each side of the wheel, instead of just sketching two uneven surfaces as in the first iteration. 
+
+### **Axle Bar:**
+The axle bar was created in the same manner as in the first iteration. I used the extrude command, the symmetric configuration and a distance of 30mm. This meant that the axle bar was going through the wheel and measured a total of 60mm. On this occasion, the axle bar was placed differently, with a 5mm gap between it and the two tower cavities at both ends. 
+
+Finally, two cylinders measuring 9mm each were attached on both ends of the axle bar. Those would connect the axle bar and the ball bearings.
+
 
 
 ![Second print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/cd2c0787-9cc1-4e75-bacd-6e7077a7fd24)
 Figure 2: Shows the evolution of the second watermill’s design using the Fusion360 program.
+
