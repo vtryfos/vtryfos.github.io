@@ -14,9 +14,9 @@ A watermill is a structure, builded as usual close to a river or a stream, which
 
 The structure created for this project consists of two towers, a wheel with paddles along its outer edge, a long and narrow axle bar, and two stainless steel ball bearings. The design and construction of the watermill will involve utilizing the Fusion360 software program, the Bambu slicer application, and a Bambu X1 Carbon 3D printer.
 
-### **CAD progress:**
+## **CAD progress:**
 
-### **First Iteration: Fig 1**
+## **First Iteration: Fig 1**
 
 ### **First Tower**
 As previously stated, Fusion360 was utilized to design the structure of the watermill. To begin with, I created a rectangular shape (35mm x 60mm) on the XY plane. Then, the extrude command was used to elevate the rectangular shape by 20mm. The base of the tower was then designed and I had to design another structure on the top of the base. Using the same way, I created yet another rectangular shape (10mm x 35mm) on the XY plane. The only difference was that this second rectangular was positioned atop of the tower base. The extrude command was used again to lift the rectangular by 50mm. At this point, the whole tower was completed. 
@@ -49,7 +49,7 @@ The final stage in completing the structure's design involved rounding its corne
 Figure 1: Shows the evolution of the initial watermill’s design using the Fusion360 program.
 
 
-### **Second iteration: Fig 2**
+## **Second iteration: Fig 2**
 
 The idea behind the second design of the watermill was almost identical with the first one described above but with a few corrections. The nature and the reason for some of those corrections will be further discussed in the next session. 
 
@@ -82,3 +82,4 @@ Finally, two cylinders measuring 9mm each were attached on both ends of the axle
 ![Second print evolution](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/cd2c0787-9cc1-4e75-bacd-6e7077a7fd24)
 Figure 2: Shows the evolution of the second watermill’s design using the Fusion360 program.
 
+## **Bambu Slicer set up:**
