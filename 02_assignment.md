@@ -88,3 +88,7 @@ The configuration of the Bambu slicer was pretty straight forward, as most of th
 
 ![blmbu slicer confi](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/5914e4c5-6375-44be-94a9-00a051f31698)
 Figure 3: Values of the parameters, preparation, and preview of the upcoming 3D printed designs.
+
+## **Three 3D print iterations:**
+
+The watermill went through a total of three 3D printing iterations, with the first design being printed twice and the second one once. The first print started as normal but due to lack of glue on the thermal plate the process had to be halted . Despite the unsuccessful outcome, the 3D printer produced the bottom surfaces of the towers and the watermill wheel as depicted in Fig 4. 
