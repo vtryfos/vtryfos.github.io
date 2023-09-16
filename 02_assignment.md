@@ -94,7 +94,7 @@ Figure 3: Values of the parameters, preparation, and preview of the upcoming 3D 
 The watermill went through a total of three 3D printing iterations, with the first design being printed twice and the second one once. The first print started as normal but due to lack of glue on the thermal plate the process had to be halted . Despite the unsuccessful outcome, the 3D printer produced the bottom surfaces of the towers and the watermill wheel as depicted in Fig 4. 
 
 
-
+![PXL_20230916_191924857](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/3b5b8d0a-f68c-4600-a610-a174a28af52c)
 Figure 4: First 3D printing attempt of the watermill (First design).
 
 The second attempted iteration was successful, however, the design had a major flow. The cylindrical axle was inserted inside the tower cavities and was after that connected to the bearings, meaning that the axle was rubbing against the inner walls of the cavities causing unwanted friction (Fig 5). This issue made the rotation of the watermill wheel almost impossible.   Thus, a second design and a third print was necessary. 
