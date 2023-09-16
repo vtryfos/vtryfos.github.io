@@ -100,10 +100,13 @@ Figure 4: First 3D printing attempt of the watermill (First design).
 The second attempted iteration was successful, however, the design had a major flow. The cylindrical axle was inserted inside the tower cavities and was after that connected to the bearings, meaning that the axle was rubbing against the inner walls of the cavities causing unwanted friction (Fig 5). This issue made the rotation of the watermill wheel almost impossible.   Thus, a second design and a third print was necessary. 
 
 
+![PXL_20230916_192146265] https://github.com/vtryfos/vtryfos.github.io/assets/143755086/97b71c14-85df-4e2f-9ccb-a187de6a6caa)
 Figure 5: Second 3D printing attempt of the watermill (First design).
 
 The third and final 3D printing attempt was also a success. On this occasion, it was the second design that was printed, as shown in Figure 6. In this case, no ‘negative’ issues were presented whatsoever. 
 
+
+![PXL_20230916_192510791](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/3e4b901e-3bf2-4b09-87ac-afdae9fc3012)
 Figure 6: Second 3D printing attempt of the watermill (Second design).
 
 ## **Discussion:**
