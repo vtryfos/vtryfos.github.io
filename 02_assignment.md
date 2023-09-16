@@ -83,3 +83,8 @@ Finally, two cylinders measuring 9mm each were attached on both ends of the axle
 Figure 2: Shows the evolution of the second watermill’s design using the Fusion360 program.
 
 ## **Bambu Slicer set up:**
+
+The configuration of the Bambu slicer was pretty straight forward, as most of the parameters were already set to their default values. It is worth mentioning that both iterations had the same slicer configurations. The only parameter that was manually changed or altered was the support parameter, which is responsible for generating support structures that are used for preventing overhangs or bridges to collapse during the 3D printing process (Fig 3). 
+
+![blmbu slicer confi](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/5914e4c5-6375-44be-94a9-00a051f31698)
+Figure 3: Values of the parameters, preparation, and preview of the upcoming 3D printed design.
