@@ -27,4 +27,5 @@ Figure 3: Flat base of the lower semi-sphere (Blue shaded area).
 Finally, figure 4 shows the final form of the floating buoy.
 
 ![Screenshot 2023-09-17 172138](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/edffd158-bdf3-48e2-8012-2bf7701cb823)
-Figure 4: Final design of the buoy.
+
+Figure 4: Final design of the floating buoy using Fusion360.
