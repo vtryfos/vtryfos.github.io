@@ -29,3 +29,9 @@ Finally, figure 4 shows the final form of the floating buoy.
 ![Screenshot 2023-09-17 172138](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/edffd158-bdf3-48e2-8012-2bf7701cb823)
 
 Figure 4: Final design of the floating buoy using Fusion360.
+
+## **External components:**
+The floating buoy will gather information about the wave height. To achieve this, special instruments need to be placed inside the buoys housing. The system will need an arduino, a 3-axis accelerometer, a 5-7 volts battery, and cable connections to wire the accelerator to the arduino. 
+
+The buoy and its instruments require power from a 5-7 volts battery. A potential solution to make the buoy self-sufficient is the integration of a pendulum within the buoy. I expect the pendulum will rotate in response to the disruptive waves crashing against the buoy. Lasty, I will also install a tachometer to check whether the pendulum rotations can potentially create a sufficient number of rotations per minute (RPM) to charge the battery that powers up the system.  
+  
