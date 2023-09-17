@@ -17,3 +17,9 @@ To make the interior of the buoy waterproof, I created in total 4 ring torus alo
 
 ![Screenshot 2023-09-17 174856](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/aed122fb-7086-4724-ad90-c8a05d32bd72)
 Figure 2: Torus cavities where the two rubber gaskets will fit (Blue Shaded areas).
+
+
+One more important feature to note is the creation of a flat base located inside the lower semi-sphere will be the base that accommodates the measuring instruments, as shown in figure 3. 
+
+![Screenshot 2023-09-17 175737](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/a4c4fac2-c959-4f66-8c73-afbadc2c9199)
+Figure 3: Flat base of the lower semi-sphere (Blue shaded area).
