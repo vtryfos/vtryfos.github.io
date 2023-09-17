@@ -24,10 +24,9 @@ One more important feature to note is the creation of a flat base located inside
 ![Screenshot 2023-09-17 175737](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/a4c4fac2-c959-4f66-8c73-afbadc2c9199)
 Figure 3: Flat base of the lower semi-sphere (Blue shaded area).
 
-Finally, figure 4 shows the final form of the floating buoy.
+The final step in completing the design of the buoy is the inside tower that will accommodate and hold tight in place all the instruments needed to complete the project. This tower is yet to be designed as the dimensions of the instrument are still unknown. This arises from not yet knowing the specific models that will be used. Lastly, figure 4 shows the final form of the floating buoy.
 
 ![Screenshot 2023-09-17 172138](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/edffd158-bdf3-48e2-8012-2bf7701cb823)
-
 Figure 4: Final design of the floating buoy using Fusion360.
 
 ## **External components:**
