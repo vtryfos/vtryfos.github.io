@@ -4,7 +4,7 @@ layout: default
 ---
 
 # **CAD model of the floating buoy.**
-
+ 
 
 ## **CAD process:**
 As stated in the previous section, the CAD model of the floating buoy is being designed using the Fusion360 software program. The final design of the buoy is slightly different compared to the one that we saw in the previous section. The buoy is composed of two hollow  semi-spheres that will be fastened together using ten sets of screws and nuts (Fig1).
