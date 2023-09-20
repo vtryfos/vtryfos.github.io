@@ -4,7 +4,7 @@ layout: default
 ---
 
 # **CAD model of the floating buoy.**
- 
+ ![Screenshot 2023-09-17 172138](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/9ba4d270-51df-447c-8b2a-523ee39aeb90)
 
 ## **CAD process:**
 As stated in the previous section, the CAD model of the floating buoy is being designed using the Fusion360 software program. The final design of the buoy is slightly different compared to the one that we saw in the previous section. The buoy is composed of two hollow  semi-spheres that will be fastened together using ten sets of screws and nuts (Fig1).
