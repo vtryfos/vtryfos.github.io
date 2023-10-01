@@ -31,3 +31,4 @@ Figure 2: End result of the laser cut process.
 Now that the design was finished, I had to take into account the offset value in order to compensate for the laser's beam width. Offsetting the design by adding a few hundred of millimeters should not be an issue, but not in this case. Normally, when offsetting a sketch, a single click is enough to select all the lines or curves of interest, which was something that I missed. In other words, I used the offset command and selected only one line, instead of the whole sketch, meaning that the laser cut was inconsistent. Max did a valiant effort to find the problem, which was eventually solved and we managed to laser cut all the parts. The offset value was to be 0.2mm. Finally, all the parts fitted very well together and the box looks still robust and intact. The completed parametric box is depicted in Figure 3.
 
 
+Shoutout to Max for being extremely helpful throughout the whole process!
