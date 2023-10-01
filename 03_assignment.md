@@ -18,7 +18,6 @@ The parametric box was designed using Fusion360 (Figure 1, blue panel), and the 
 Figure 1: Shows the design of the bottom (blue shaded area) and the side panel (gray area) of the parametric box in Fusion360.
 
 
-
 ### **One of the sides of the parametric box**
 
 
