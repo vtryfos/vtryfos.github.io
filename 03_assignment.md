@@ -32,3 +32,7 @@ Now that the design was finished, I had to take into account the offset value in
 
 
 Shoutout to Max for being extremely helpful throughout the whole process!
+
+### **Reflection**
+
+The precision and speed that the laser cutting technology provides is extremely useful as it provides high quality cuts in a very short time. This technology could be also used to add in my floating buoy project. I could potentially laser cut wooden or plastic pieces to act as a removable base and structure of the instruments located inside the buoy, making the removing process of the instruments quicker.
