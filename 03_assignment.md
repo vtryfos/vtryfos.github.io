@@ -22,14 +22,16 @@ Figure 1: Shows the design of the bottom (blue shaded area) and the side panel (
 
 The side panels of the wooden parametric box were designed to have a male end with two pins (east) and a female end with two cuts (west), as depicted in Figure 2 (second panel). In this case, I only had to design one side panel and laser cut it four times, as depicted in Figure 1 (gray panel). I started by designing a 45mm x 45mm rectangle on an offset YZ plane. In addition to the east-west pins, I designed four rectangles at the southern end of this new sketch. Those four new rectangles would bring forward the three pins to connect the side panels to the bottom panel. In the same manner as above, I mirrored those rectangles to the north side of the panel. To summarize, the side panels were to be laser cut four times and the bottom panel twice, as the side panels would fit with each other and the bottom and top panel.
 
-
-Figure 2: End result of the laser cut process.
+![bottom and side](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/faedd227-c692-4de8-b589-f598034bf9b6)
+Figure 2: Shows the end result of the laser cut process.
 
 ### **Offset value**
 
 
 Now that the design was finished, I had to take into account the offset value in order to compensate for the laser's beam width. Offsetting the design by adding a few hundred of millimeters should not be an issue, but not in this case. Normally, when offsetting a sketch, a single click is enough to select all the lines or curves of interest, which was something that I missed. In other words, I used the offset command and selected only one line, instead of the whole sketch, meaning that the laser cut was inconsistent. Max did a valiant effort to find the problem, which was eventually solved and we managed to laser cut all the parts. The offset value was to be 0.2mm. Finally, all the parts fitted very well together and the box looks still robust and intact. The completed parametric box is depicted in Figure 3.
 
+![whole box](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/8262a2d2-2f75-42d1-ae56-eae51f8195f5)
+Figure 3: Shows the 6-side parametric box.
 
 Shoutout to Max for being extremely helpful throughout the whole process!
 
