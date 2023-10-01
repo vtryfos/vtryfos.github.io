@@ -20,6 +20,11 @@ Figure 1: Shows the design of the bottom (blue shaded area) and the side panel (
 
 ### **One of the sides of the parametric box**
 
+The side panels of the wooden parametric box were designed to have a male end with two pins (east) and a female end with two cuts (west), as depicted in Figure 2 (second panel). In this case, I only had to design one side panel and laser cut it four times, as depicted in Figure 1 (gray panel). I started by designing a 45mm x 45mm rectangle on an offset YZ plane. In addition to the east-west pins, I designed four rectangles at the southern end of this new sketch. Those four new rectangles would bring forward the three pins to connect the side panels to the bottom panel. In the same manner as above, I mirrored those rectangles to the north side of the panel. To summarize, the side panels were to be laser cut four times and the bottom panel twice, as the side panels would fit with each other and the bottom and top panel.
+
+
+Figure 2: End result of the laser cut process.
+
 
 
 
