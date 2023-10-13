@@ -1,5 +1,5 @@
 ---
-title: 04_assignment
+title: 04_assignment: Digital Fabrication Recitation
 layout: default
 ---
 
