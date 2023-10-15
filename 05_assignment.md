@@ -41,6 +41,7 @@ Parts marked with * are not in the Figure
 
 
 ![PXL_20231015_091353373~2](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/86bf997f-527c-4ce8-82c1-24e2f37bdada)
+
 Figure 1: Depicts the 3D printed Housing, the bolts and nuts, the rubber O-rings that goes around the bolts and nuts, the metallic shaft and ball bearings, the Feather Sense board and the battery.
 
 ## **Housing**
