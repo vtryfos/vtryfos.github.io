@@ -8,7 +8,7 @@ layout: default
 In this fourth assignment, the task was to laser-cut wooden pieces and build a 6-side parametric box. To assemble the parts that create the box, finger joints were designed at the edges of the wooden pieces. The whole point of the finger joints is to hold the box together instead of glue, screws, etc. 
 
 
-## ** Fusion360 design** 
+## **Fusion360 design** 
 
 ### **Bottom side of the parametric box**
 
