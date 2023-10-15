@@ -36,6 +36,7 @@ This project consists of a numerous amount of components, both electrical, physi
 * 1 Feather nRF52840 Sense board.
 * 1 Li-Po 3.7v battery.
 * 2 2mm Ø x 4mm screws.
+*(Parts marked with (*) are not in the Figure)
 
 
 Figure 1: Depicts the 3D printed Housing, the bolts and nuts, the rubber O-rings that goes around the bolts and nuts, the metallic shaft and ball bearings, the Feather Sense board and the battery.
