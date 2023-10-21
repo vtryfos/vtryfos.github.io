@@ -73,7 +73,7 @@ When it comes to the software progression, I am working on the code that convert
 
 * Add an epoxy layer around the outsides and insides of the 3D printed prototype.
 * Test whether the prototype is waterproof and watertight.
-* Laser cut the base (floor) located inside the housing.
+* Laser cut the base (floor) located inside the housing.  
 * 3D print a case for the Feather Sense board and the battery.
 * Create the battery charger system and test it.
 * Finish the code that controls the sensor.
