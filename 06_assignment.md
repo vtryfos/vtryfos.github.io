@@ -40,6 +40,20 @@ https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a
 Another aspect of the floating buoy is its ability to recharge the battery on-board. As mentioned during the previous assignments, a rotating pendulum will be mounted inside the buoy’s housing. The role of this pendulum is to initiate an energy transformation, from wave/mechanical to electrical, as described previously. Firstly, it is essential to see whether the pendulum has a sufficient rate of rotations, meaning that it is important to know if the pendulum rotates fast enough per minute to actually initiate the energy conversion described above. To achieve that, I had to find an appropriate sensor and method that measures the pendulum’s RPM.  
 
 ### **Sample rate and data**
+
+KY-024 Hall sensor:
+
+
+
+
+Rotary Encoder:
+
+![PXL_20231022_182947980](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/4a651d8d-e7ca-459f-bef7-8501918c5ad1)
+
+
+
+
+
 ### **Power consumption**
 
 
