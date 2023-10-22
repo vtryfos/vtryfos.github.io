@@ -50,6 +50,9 @@ Rotary Encoder:
 
 ![PXL_20231022_182947980](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/4a651d8d-e7ca-459f-bef7-8501918c5ad1)
 
+![Merged_document(3)](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/81f5473c-a2da-41df-af5c-dc6c8649cfc8)
+
+
 
 
 
