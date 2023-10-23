@@ -52,6 +52,7 @@ Another aspect of the floating buoy is its ability to recharge the battery on-bo
 
 KY-024 Hall sensor:
 
+![Merged_document3)](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/55a08b94-0749-40dc-b5fe-520dca37cef3)
 
 
 
