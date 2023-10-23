@@ -38,7 +38,7 @@ Now, combining the output of those sensors three different values in total are p
 
 
 ![Screenshot 2023-10-23 195420](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/3cf68d01-1ba6-4ec8-a950-e2917c47f4b9)
-Figure 3: Representation of the Euler angles (Pitch, Roll, and Yaw) in three dimentions.
+Figure 3: Representation of the Euler angles (Pitch, Roll, and Yaw) in three dimentions from: [Euler Angles](https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions/lets-fuse).
 
 [Graphical representation of the sensor's 3D-orientation](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a-9803-6202e5d68590)
 
