@@ -46,7 +46,7 @@ Figure 3: Representation of the Euler angles (Pitch, Roll, and Yaw) in three dim
 ### **Power consumption**
 
 ## **Second set of measurements**
-Another aspect of the floating buoy is its ability to recharge the battery on-board. As mentioned during the previous assignments, a rotating pendulum will be mounted inside the buoy’s housing. The role of this pendulum is to initiate an energy transformation, from wave/mechanical to electrical, as described previously. Firstly, it is essential to see whether the pendulum has a sufficient rate of rotations, meaning that it is important to know if the pendulum rotates fast enough per minute to actually initiate the energy conversion described above. To achieve that, I had to find an appropriate sensor and method that measures the pendulum’s RPM.  
+Another aspect of the floating buoy is its ability to recharge the battery on-board. As mentioned during the previous assignments, a rotating pendulum will be mounted inside the buoy’s housing. The role of this pendulum is to initiate an energy transformation, from wave/mechanical to electrical, as described previously. Firstly, it is essential to see whether the pendulum has a sufficient rate of rotations, meaning that it is important to know if the pendulum rotates fast enough per minute to actually initiate the energy conversion described above. To achieve that, I had to find an appropriate sensor and method that measures the pendulum’s RPM. Now, given the fact that there are a lot of sensors that can take such samples, I decided to approach a solution from 2 different paths, in other words, by using two different sensors and methods.
 
 ### **Sample rate and data**
 
