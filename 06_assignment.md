@@ -26,7 +26,19 @@ Having the code in place, I had to then calibrate the magnetometer. The magnetom
 ![Screenshot 2023-10-18 231308](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/09a14928-f3d4-4cab-8e02-29efe7a99d73)
 Figure 2: Shows the interface where the LIS3MDL was calibrated.
 
-At this point, I had the needed tools in place in order to get a 3D-orientation in real space. 
+At this point, I had the needed tools in place in order to get a 3D-orientation in real space but firstly,  it is important to go through and explain the measurements those 3 sensors provide and their units. As mentioned above, I utilize 3 of the sensors that are mounted on the Adafruit board; a gyroscope, an accelerometer, and a magnetometer. 
+
+The sensors return the following values [Accel, Gyro, and Magnetometer](https://www.adafruit.com/category/521):
+
+3-Axis Gyroscope: Measure rotational motion in degrees (dps)
+3-Axis Accelerometer: Measure acceleration in X, Y, and X-axis (m/s2).
+3-Axis Magnetometer: Measure and detect magnetic fields and magnetic north respectively (uTelsa).
+
+
+
+
+Now, combining the output of those sensors three different values in total are produced; the pitch, yaw, and roll, or in other words, the Euler angles. The Euler angles describe an object’s 3D orientation around a reference point [Euler Angles](https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions/lets-fuse). More specifically, the pitch, yaw, and roll values are representing an object’s rotation around the Y, Z, and X axis respectively. Those values range between -180° to 180°, depending on the way the object is tilted. The Euler angles can be visually presented in a 3D Model Viewer and will be very useful to calculate wave properties and the buoy’s reaction and response to crashing waves. The visual representation of the Euler angles can be observed in the link below!
+
 
 
 
