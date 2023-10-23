@@ -31,7 +31,7 @@ At this point, I had the needed tools in place in order to get a 3D-orientation 
 
 
 
-https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a-9803-6202e5d68590
+[Graphical representation of the sensor's 3D-orientation](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a-9803-6202e5d68590)
 (Copy and paste the link above to your browser to see the video)
 
 
