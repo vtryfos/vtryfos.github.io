@@ -36,11 +36,12 @@ The sensors return the following values. [Accel, Gyro, and Magnetometer](https:/
 
 Now, combining the output of those sensors three different values in total are produced; the pitch, yaw, and roll, or in other words, the Euler angles. The Euler angles describe an object’s 3D orientation around a reference point. [Euler Angles](https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions/lets-fuse). More specifically, the pitch, yaw, and roll values are representing an object’s rotation around the Y, Z, and X axis respectively (Figure 3). Those values range between -180° to 180°, depending on the way the object is tilted. The Euler angles can be visually presented in a 3D Model Viewer and will be very useful to calculate wave properties and the buoy’s reaction and response to crashing waves. The visual representation of the Euler angles can be observed in the link below!
 
+[Graphical representation of the sensor's 3D-orientation](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a-9803-6202e5d68590)
+
 
 ![Screenshot 2023-10-23 195420](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/3cf68d01-1ba6-4ec8-a950-e2917c47f4b9)
 Figure 3: Representation of the Euler angles (Pitch, Roll, and Yaw) in three dimensions from: [Euler Angles](https://learn.adafruit.com/how-to-fuse-motion-sensor-data-into-ahrs-orientation-euler-quaternions/lets-fuse).
 
-[Graphical representation of the sensor's 3D-orientation](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/c300659a-6bdb-472a-9803-6202e5d68590)
 
 
 ### **Power consumption**
