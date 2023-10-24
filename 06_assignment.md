@@ -59,7 +59,7 @@ Figure 4: The KY-040 Rotary Encoder and KY-024 Hall Sensor.
 
 **KY-024 Hall sensor:**
 
-The KY-024 Hall sensor is a component that detects a magnetic field. It also provides information about the magnetic field’s polarity and intensity. This sensor returns values closing to 512 when no magnet is present, which is about 2,5 volts according to: [Linear Hall Sensor Guide 49E](https://www.electroschematics.com/linear-hall-sensor/). When passing a magnet in front of the probe, this number will either decrease or increase, depending on the magnet’s polarity. Thus, this magnet can be used to measure RPM of the pendulum if I attach a small and strong magnet to it. Every time this attached magnet passes in front of the sensor’s probe, the sensor will document this event. After some calculations, I was able to retrieve the RPM of a magnet attached to a rotating device I used to test the sensor. This sensor operates by a 5V DC power source: [SENSORKIT](https://sensorkit.joy-it.net/en/sensors/ky-040). This sensor takes measurements only when a magnet is present, there is in other words no decided sample rate.
+The KY-024 Hall sensor (Figures 4 and 5) is a component that detects a magnetic field. It also provides information about the magnetic field’s polarity and intensity. This sensor returns values closing to 512 when no magnet is present, which is about 2,5 volts according to: [Linear Hall Sensor Guide 49E](https://www.electroschematics.com/linear-hall-sensor/). When passing a magnet in front of the probe, this number will either decrease or increase, depending on the magnet’s polarity. Thus, this magnet can be used to measure RPM of the pendulum if I attach a small and strong magnet to it. Every time this attached magnet passes in front of the sensor’s probe, the sensor will document this event. After some calculations, I was able to retrieve the RPM of a magnet attached to a rotating device I used to test the sensor. This sensor operates by a 5V DC power source: [SENSORKIT](https://sensorkit.joy-it.net/en/sensors/ky-040). This sensor takes measurements only when a magnet is present, there is in other words no decided sample rate.
 
 
 
@@ -69,14 +69,14 @@ Figure 5:
 
 **Rotary Encoder:**
 
-The KY-040 Rotary Encoder is a component that detects rotation, either clockwise or counterclockwise rotation. More specifically, it converts angular displacement into signals returned in the Serial monitor of the Arduino IDE editor ([Epitran.it)](https://www.epitran.it/ebayDrive/datasheet/25.pdf)). Those signals are depicted in Figure 6. If the shaft of the encoder is rotated one time clockwise, the code created in the text editor will add that to a parameter called ‘’clockwise’’ and vice versa, and will keep adding to the same parameter as long as the shaft is rotated. Now, coupling this parameter with time can return the amount of rotations per time (RPM).
+The KY-040 Rotary Encoder (Figures 4 and 6) is a component that detects rotation, either clockwise or counterclockwise rotation. More specifically, it converts angular displacement into signals returned in the Serial monitor of the Arduino IDE editor (Figure 6 bottom right panel) ([Epitran.it)](https://www.epitran.it/ebayDrive/datasheet/25.pdf)). TThose signals are depicted in Figure 6. If the shaft of the encoder is rotated one time clockwise the green light switches on and the code created in the text editor will add that to a parameter called ‘’clockwise’’ and vice versa, and will keep adding to the same parameter as long as the shaft is rotated. Now, coupling this parameter with time can return the amount of rotations per time (RPM).
 
 
 ![PXL_20231022_182947980](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/4a651d8d-e7ca-459f-bef7-8501918c5ad1)
 
 ![Merged_document(3)](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/81f5473c-a2da-41df-af5c-dc6c8649cfc8)
 
-Figure 6: 
+Figure 6: Connected KY-040 Rotary Encoder to the Arduino UNO and output of the sensor.
 
 
 
