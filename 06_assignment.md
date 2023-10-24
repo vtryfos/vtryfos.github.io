@@ -78,6 +78,9 @@ The KY-040 Rotary Encoder (Figures 4 and 6) is a component that detects rotation
 
 Figure 6: Connected KY-040 Rotary Encoder to the Arduino UNO and output of the sensor.
 
+## **Discussion and conclusions:**
+
+Even though both methods for measuring data that provide a RPM calculation are sufficient, I decided to go on and use the Hall Sensor to do the task. I strongly think that the attached magnet on the pendulum is a simpler solution contra the Rotary Encoder. The latter actually returns more precise measurements but the rotating shaft introduces a pronounced amount of friction/resistance which is an enemy to the whole project. When it comes to the power requirements of my project, it would be ideal to get more familiar with the functionality of the multimeter in order to take power measurements of the whole system while the system is activated. Finally, the only thing left to do is to mathematically use the output values of the Adafruit Sensor in order to get the buoy’s Z-axis displacement. 
 
 
 
