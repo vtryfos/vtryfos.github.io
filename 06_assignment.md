@@ -65,7 +65,7 @@ The KY-024 Hall sensor (Figures 4 and 5) is a component that detects a magnetic 
 
 ![Merged_document3)](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/55a08b94-0749-40dc-b5fe-520dca37cef3)
 
-Figure 5: 
+Figure 5: Connected KY-024 Hall Sensor to the Arduino UNO.
 
 **Rotary Encoder:**
 
