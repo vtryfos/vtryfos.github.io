@@ -76,6 +76,4 @@ Rotary Encoder:
 
 
 
-### **Power consumption**
-
 
