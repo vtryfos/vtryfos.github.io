@@ -57,7 +57,7 @@ Figure 4: The KY-040 Rotary Encoder and KY-024 Hall Sensor.
 
 ### **Sample rate and data**
 
-**KY-024 Hall sensor:**
+**KY-024 Hall sensor:** 
 
 The KY-024 Hall sensor (Figures 4 and 5) is a component that detects a magnetic field. It also provides information about the magnetic field’s polarity and intensity. This sensor returns values closing to 512 when no magnet is present, which is about 2,5 volts according to: [Linear Hall Sensor Guide 49E](https://www.electroschematics.com/linear-hall-sensor/). When passing a magnet in front of the probe, this number will either decrease or increase, depending on the magnet’s polarity. Thus, this magnet can be used to measure RPM of the pendulum if I attach a small and strong magnet to it. Every time this attached magnet passes in front of the sensor’s probe, the sensor will document this event. After some calculations, I was able to retrieve the RPM of a magnet attached to a rotating device I used to test the sensor. This sensor operates by a 5V DC power source: [SENSORKIT](https://sensorkit.joy-it.net/en/sensors/ky-040). This sensor takes measurements only when a magnet is present, there is in other words no decided sample rate.
 
