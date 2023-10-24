@@ -5,6 +5,7 @@ layout: default
 
 # **Input and Output: Measuring and corresponding to data values**  
 
+## **Introduction**
 For this week’s assignment, the main task was to utilize a microcontroller’s applications. This microcontroller can take various measurements such as temperature, humidity, position in space and so on (input) and those can be used to either explain or point out theories and observations (output). In my case, I used two different microcontrollers, with the first one being the Arduino Uno v3 and the second one being the Adafruit feather nrf52840 sense sensor (Figure 1). 
 
 ![Merged_document(5)](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/8005c517-6c8f-4692-a74a-b99d2c0384d6)
