@@ -13,7 +13,7 @@ In order to get started with the assignment, there were a plethora of steps to d
 
 After finishing the NodeJS installation I created a new directory named ‘’Hello’’ (as i couldn't come up with a better name…). Then, I had to install all dependencies in this directory. To navigate into the directory, I used the **npm init** command in the terminal and then the **npm install** command. Lastly, I installed the **express** and **ChartJS** libraries by using the **npm i express** and **npm install chart.js** in the VS Code terminal. 
 
-## **Writing the code**
+## **Writing and composing the code**
 After a lot of back and forward and some hours spent looking on different webpages, I managed to write the code needed for this assignment. There were in total 3 scripts that were created. The first script created was a .js form script named **serve.js** and was responsible to host the web server. Then, I create a separate folder in the ‘’Hello’’ directory named **public3**. Inside public3, I created two new files, one in .js form and one in .html form named **client.js** and **index .html**, with the first one containing the majority of the coding and functionalities such as creating the randomized data and updating the chart. 
  
 Furthermore, this file also contains the tools that are used to visualize the graph (customization). All of those three scripts are given below. Finally, I had to save the scripts and run them through the terminal command **node server.js** in order to be able to see the chart in the browser (Google Chrome).
