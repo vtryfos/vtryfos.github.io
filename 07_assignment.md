@@ -157,6 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 ```
 ## **Results**
+The resulting charts that the code produced are depicted below (Figures 1-3 and Video 1). The main issue I had initially (In Figures 1 and 2) was to update the chart. The **setInterval** function solved this issue, thankfully. Another problem I faced was that the chart was growing in the X-Axis direction as it was updated. To solve this, I decided to remove the very first datapoint of the chart when the length of the datapoint array is equal to 10. This means that as the chart gets updated now the first entry gets removed. The latter results in Figure 3, which is a chart that changes dynamically as time passes (once every second). 
 
 ![Screenshot 2023-11-14 004049](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/47327959-c94a-4b3b-a956-f4aceeaa1090)
 Figure 1: First iteration of the graph that depicts random values (0-100) in the Y-Axis and the real-time in the X-Axis. Red color line represents the buoy’s vertical displacement in mm while the blue line represents the pendulum’s rotations per minute (RPM).
