@@ -171,3 +171,8 @@ Figure 3: Third and final iteration of the graph that depicts random values (0-2
 https://github.com/vtryfos/vtryfos.github.io/assets/143755086/20c5ae85-09fa-49cb-b8de-4ca86d6d1336
 
 Video 1: Screen capture that depicts the graph’s update every second (Values are similar to figure 3)
+
+## **Reflection**
+The idea of this assignment was to use those tools and learn about them as they are useful for the data fetching of my final project. I therefore intend to integrate the Server-Client method in order to visualize real-time measurements of the floating buoy. The challenge that I will probably face is the way the microcontroller communicates with the server as a cable connection is far from ideal. 
+
+To summarize, I have to admit that my limited javascript and software knowledge made this assignment difficult but also learnful at the same time. Additionally, the core of the code used for this assignment was mainly found online from some articles, webpages, and YouTube videos, , based on this aforementioned limited knowledge, while the logic and reasoning behind the charts came from my own experience and background in data analysis. 
