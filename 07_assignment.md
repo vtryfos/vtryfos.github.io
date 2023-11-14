@@ -9,7 +9,46 @@ layout: default
 
 https://github.com/vtryfos/vtryfos.github.io/assets/143755086/20c5ae85-09fa-49cb-b8de-4ca86d6d1336
 
+**Server.js**
+```js
+const express = require('express');
+const app = express();
+const port = process.env.PORT || 3000;
 
+app.use(express.static('public3'));
+
+app.get('/data', (req, res) => {
+    const randomValue = Math.floor(Math.random() * 200);
+    res.json({ value: randomValue });
+});
+
+
+
+app.listen(port, () => {
+    console.log(`Server listening on port ${port}`);
+});
+```
+
+**Index.html**
+```js
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-time Data Visualization</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="data-chart" width="700" height="250"></canvas>
+
+    <script src="client.js"></script>
+</body>
+</html>
+```
+
+
+**Client.js**
 ```js
 document.addEventListener('DOMContentLoaded', () => {
     const ctx = document.getElementById('data-chart').getContext('2d');
@@ -115,5 +154,5 @@ document.addEventListener('DOMContentLoaded', () => {
         chart.update();
     }, 1000);
 });
-
 ```
+
