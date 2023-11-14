@@ -159,12 +159,13 @@ document.addEventListener('DOMContentLoaded', () => {
 ## **Results**
 
 ![Screenshot 2023-11-14 004049](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/47327959-c94a-4b3b-a956-f4aceeaa1090)
-Figure 1:
+Figure 1: First iteration of the graph that depicts random values (0-100) in the Y-Axis and the real-time in the X-Axis. Red color line represents the buoy’s vertical displacement in mm while the blue line represents the pendulum’s rotations per minute (RPM).
 
 ![Screenshot 2023-11-14 005414](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/9a37a95b-6980-40ec-af07-df7d74ca14c6)
-Figure 2:
+Figure 2: Second iteration of the graph that depicts random values (0-100) in the left hand side Y-Axis as well as random values (0-70) in the right hand Y-Axis and the real-time in the X-Axis. Red color line represents the buoy’s vertical displacement in mm and its values are represented on the right hand Y-Axis while the blue line represents the pendulum’s rotations per minute (RPM) on the left hand side Y-Axis.
 
 ![Screenshot 2023-11-14 212529](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/a79fb3ae-3d9d-44e6-a9c4-d31f51c304d0)
-Figure 3:
+Figure 3: Third and final iteration of the graph that depicts random values (0-200) in the left hand side Y-Axis as well as random values (0-100) in the right hand Y-Axis and the real-time in the X-Axis. Here the colors are reversed with respect to the two previous figures as the red color line represents the pendulum’s rotations per minute (RPM) and its values are represented on the right hand Y-Axis while the blue line represents the buoy’s vertical displacement in mm on the left hand side Y-Axis.
 
 https://github.com/vtryfos/vtryfos.github.io/assets/143755086/20c5ae85-09fa-49cb-b8de-4ca86d6d1336
+Video 1: Screen capture that depicts the graph’s update every second (Values are similar to figure 3)
