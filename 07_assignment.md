@@ -153,4 +153,13 @@ document.addEventListener('DOMContentLoaded', () => {
 ```
 ## **Results**
 
+![Screenshot 2023-11-14 004049](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/47327959-c94a-4b3b-a956-f4aceeaa1090)
+Figure 1:
+
+![Screenshot 2023-11-14 005414](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/9a37a95b-6980-40ec-af07-df7d74ca14c6)
+Figure 2:
+
+![Screenshot 2023-11-14 212529](https://github.com/vtryfos/vtryfos.github.io/assets/143755086/a79fb3ae-3d9d-44e6-a9c4-d31f51c304d0)
+Figure 3:
+
 https://github.com/vtryfos/vtryfos.github.io/assets/143755086/20c5ae85-09fa-49cb-b8de-4ca86d6d1336
