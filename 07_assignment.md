@@ -168,4 +168,5 @@ Figure 2: Second iteration of the graph that depicts random values (0-100) in th
 Figure 3: Third and final iteration of the graph that depicts random values (0-200) in the left hand side Y-Axis as well as random values (0-100) in the right hand Y-Axis and the real-time in the X-Axis. Here the colors are reversed with respect to the two previous figures as the red color line represents the pendulum’s rotations per minute (RPM) and its values are represented on the right hand Y-Axis while the blue line represents the buoy’s vertical displacement in mm on the left hand side Y-Axis.
 
 https://github.com/vtryfos/vtryfos.github.io/assets/143755086/20c5ae85-09fa-49cb-b8de-4ca86d6d1336
+
 Video 1: Screen capture that depicts the graph’s update every second (Values are similar to figure 3)
