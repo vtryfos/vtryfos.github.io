@@ -62,7 +62,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const ctx = document.getElementById('data-chart').getContext('2d');
     const Vertical_Displacement = [];
     const RPM = [];
-
     const config = {
         type: 'line',
         data: {
@@ -95,7 +94,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     text: 'Real-Time data measurements',
                 },
             },
-
             animation: {
                 duration: 2000,
                 easing: 'linear',
@@ -124,38 +122,29 @@ document.addEventListener('DOMContentLoaded', () => {
             },
         },
     };
-
     const chart = new Chart(ctx, config);
-
     function fetchLiveData() {
         const currentDate = new Date();
         const localTime = currentDate.toLocaleTimeString();
         const datavalue1 = Math.floor(Math.random() * 200) + 1; 
         const datavalue2 = Math.floor(Math.random()* 20) + 1;
 
-
         return {
             date: currentDate,
             localTime: localTime,
-
         values: [datavalue1, datavalue2],
         };
     }
-
     setInterval(() => {
-        
         const { date, localTime, values } = fetchLiveData();
-
         Vertical_Displacement.push({ x: date, y: values[0] });
         RPM.push({ x: date, y: values[1] });
-
         const maxDataPoints = 10;
         if (Vertical_Displacement.length > maxDataPoints) {
             Vertical_Displacement.shift();
             RPM.shift();
             chart.data.labels.shift();
         }
-
         chart.data.labels.push(localTime);
         chart.data.datasets[0].data = Vertical_Displacement.slice();
         chart.data.datasets[1].data = RPM.slice();
