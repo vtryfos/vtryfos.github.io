@@ -5,7 +5,7 @@ layout: default
 
 # **Web Server Vol 1**   
 
-## **Introduction**
+## **Introduction** 
 This week’s assignment was to create a web application which hosts a browser based web interface. The web interface’s function is to pull data from the server using HTTP get requests, and then displays these data through a visualization library in the browser. The chosen visualization library for this task was the Chart.js library (For substantial information about this liberty please visit the following link: [Chart.js](https://www.chartjs.org/docs/latest/). Additionally, one of the assignments tasks was to update the chart at least once every 10 seconds. In this case, I chose an update frequency of 1 second. 
 
 ## **Installations**
